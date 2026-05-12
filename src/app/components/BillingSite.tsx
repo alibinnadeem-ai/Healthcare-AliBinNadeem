@@ -544,6 +544,12 @@ const links: LinkItem[] = [
     description: "Real-time voice recording with AI-powered SOAP note generation."
   },
   {
+    href: "https://drive.google.com/drive/folders/1P9ZR4bx2omV0_w6154YQbOuQV50iHxr0",
+    icon: "🤖",
+    title: "MHA AI Billing",
+    description: "Drive folder for My Health Aiyin AI billing materials and reference assets."
+  },
+  {
     href: "https://www.canva.com/design/DAF1o-O1qBw/InsS4Wr8xze7mNcVZjO-YQ/view",
     icon: "📄",
     title: "Business Proposal for Medical Billing Services",
