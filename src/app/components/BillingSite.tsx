@@ -544,6 +544,18 @@ const links: LinkItem[] = [
     description: "Real-time voice recording with AI-powered SOAP note generation."
   },
   {
+    href: "https://www.canva.com/design/DAF1o-O1qBw/InsS4Wr8xze7mNcVZjO-YQ/view",
+    icon: "📄",
+    title: "Business Proposal for Medical Billing Services",
+    description: "Canva proposal deck for medical billing services and provider partnerships."
+  },
+  {
+    href: "https://practiceemros.vercel.app/",
+    icon: "🩺",
+    title: "Practice EMR OS",
+    description: "Practice EMR operating system project for clinical and administrative workflows."
+  },
+  {
     href: "https://drive.google.com/file/d/15MklJEg9suXGiOYbaO7ZaE6wxas1X2ks/view?usp=sharing",
     icon: "📈",
     title: "Strategic Investment Proposal",
