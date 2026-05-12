@@ -530,6 +530,55 @@ const links: LinkItem[] = [
     icon: "📲",
     title: "My Health Aiyin Popl",
     description: "Mobile networking card for healthcare RCM conversations and provider outreach."
+  },
+  {
+    href: "https://ed-command-center.vercel.app/",
+    icon: "🖥️",
+    title: "ED Command Center",
+    description: "Emergency department command center project for healthcare operations visibility."
+  },
+  {
+    href: "https://alibinnadeem-ai.github.io/aiclinicaldocsdemo0/",
+    icon: "🎙️",
+    title: "AI Clinical Documentation System",
+    description: "Real-time voice recording with AI-powered SOAP note generation."
+  },
+  {
+    href: "https://drive.google.com/file/d/15MklJEg9suXGiOYbaO7ZaE6wxas1X2ks/view?usp=sharing",
+    icon: "📈",
+    title: "Strategic Investment Proposal",
+    description:
+      "Revolutionizing medical billing services for scalable growth and operational excellence."
+  },
+  {
+    href: "https://hipaa-compliance-as-a-bu-jwtl9wh.gamma.site/",
+    icon: "🔐",
+    title: "HIPAA Compliance as a Business Associate",
+    description: "Business associate compliance presentation for healthcare operations."
+  },
+  {
+    href: "https://drive.google.com/file/d/15EB4I6j0nSDDChSo15kzsKJC270RSbFl/view?usp=sharing",
+    icon: "📘",
+    title: "MHA Unified Services & Operations Playbook",
+    description: "My Health Aiyin playbook for unified services and operating workflows."
+  },
+  {
+    href: "https://drive.google.com/file/d/1ML-rja5MyW0iAcc0Vl5GJ2OHAxAoa2K3/view?usp=sharing",
+    icon: "🏢",
+    title: "My Health Aiyin Company Profile",
+    description: "Company profile and healthcare service overview for My Health Aiyin."
+  },
+  {
+    href: "https://drive.google.com/file/d/1KLITVTXgCtDcGe1ikpF5Od2vhTxeJSBv/view?usp=sharing",
+    icon: "📋",
+    title: "My Health Aiyin Client Portal User Guide",
+    description: "Detailed user guide for the My Health Aiyin client portal demo."
+  },
+  {
+    href: "https://drive.google.com/file/d/1chRt7BhlNCKwLoeirZm1w7juuyg9W3Kf/view?usp=sharing",
+    icon: "⚡",
+    title: "My Health Aiyin Quick Reference",
+    description: "Quick reference guide for My Health Aiyin services and workflows."
   }
 ];
 
