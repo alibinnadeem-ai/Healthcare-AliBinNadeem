@@ -538,7 +538,7 @@ const links: LinkItem[] = [
     description: "Emergency department command center project for healthcare operations visibility."
   },
   {
-    href: "https://alibinnadeem-ai.github.io/aiclinicaldocsdemo0/",
+    href: "https://alibinnadeem-ai.github.io/aiclinicaldocsdemo/",
     icon: "🎙️",
     title: "AI Clinical Documentation System",
     description: "Real-time voice recording with AI-powered SOAP note generation."
