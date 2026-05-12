@@ -579,6 +579,12 @@ const links: LinkItem[] = [
     icon: "⚡",
     title: "My Health Aiyin Quick Reference",
     description: "Quick reference guide for My Health Aiyin services and workflows."
+  },
+  {
+    href: "https://drive.google.com/drive/folders/1bMqEy1IHyZpOL2k8Dqdn2qnXHLyfSU82",
+    icon: "⛓️",
+    title: "HIPAA on Chain",
+    description: "Drive folder for HIPAA on-chain compliance materials and reference assets."
   }
 ];
 
